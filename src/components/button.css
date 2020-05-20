@@ -1,0 +1,30 @@
+.fa{
+    font-size: 30px;
+}
+.button{
+
+    width: 100px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.switch-outline{
+    width: 55px;
+    background: grey;
+    padding: 3px;
+    border-radius: 15px;
+}
+.switch{
+    background: white;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    
+}
+.move{
+    margin-left: 30px;
+} 
+.background{
+    background: rgb(91, 189, 250);
+}
